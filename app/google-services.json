@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "639228401401",
+    "project_id": "tolist-151d2",
+    "storage_bucket": "tolist-151d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639228401401:android:76b89d6defe41d7addf428",
+        "android_client_info": {
+          "package_name": "com.samuelvialle.simplecrudfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639228401401-kgb89r6o3t73igvqd4m6h49hi73664s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXgLqZcS0SoxZ5rpJWAgDXf5zPtTZWNpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639228401401-kgb89r6o3t73igvqd4m6h49hi73664s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639228401401:android:0305526cfbbd0b61ddf428",
+        "android_client_info": {
+          "package_name": "com.samuelvialle.tocourssimplecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639228401401-kgb89r6o3t73igvqd4m6h49hi73664s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXgLqZcS0SoxZ5rpJWAgDXf5zPtTZWNpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639228401401-kgb89r6o3t73igvqd4m6h49hi73664s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639228401401:android:f129b8772e5f79a2ddf428",
+        "android_client_info": {
+          "package_name": "com.samuelvialle.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639228401401-kgb89r6o3t73igvqd4m6h49hi73664s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXgLqZcS0SoxZ5rpJWAgDXf5zPtTZWNpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639228401401-kgb89r6o3t73igvqd4m6h49hi73664s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
